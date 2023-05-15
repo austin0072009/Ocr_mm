@@ -1,4 +1,4 @@
-# Ocr for Myanmar language
+# Ocr for Myanmar language ( Now just support English and Chinese)
 refer
 https://github.com/Tencent/ncnn  
 https://github.com/nihui/opencv-mobile
